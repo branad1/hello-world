@@ -1,2 +1,6 @@
 # hello-world
-First repository
+
+
+Hello!
+
+This is the first step of my journey into coding!
